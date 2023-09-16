@@ -1,6 +1,6 @@
 # blender-experiments
 
-Blender tutorial work (and other experiments). I'm a complete newbie so there is problem nothing here of any interest to anyone else but me.
+Blender tutorial work (and other experiments). I'm a complete newbie so there is probably nothing here of any interest to anyone else but me.
 
 ## Contact
 

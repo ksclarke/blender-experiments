@@ -1,0 +1,15 @@
+
+# Individual frames
+frames/
+
+# Hidden files
+._*
+
+# Output animations
+*mp4
+
+# Backup files
+*.blend1
+
+# Other stuff
+poliigon
